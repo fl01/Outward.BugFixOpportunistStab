@@ -1,1 +1,1 @@
-# Outward.BugFixOpportunistStab
+Fixed issue with not consuming hexes when both pain and confusion are applied
